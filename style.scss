@@ -16,9 +16,12 @@
 html {
   font-size: 100%;
 }
-
+* {
+  background-color: #000; 
+  color: #fff;
+}
 body {
-	background: $dark;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
